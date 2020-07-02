@@ -1,6 +1,6 @@
 # music
 
-My music sheet 4 u. 
+My sheet music 4 u. 
 
 ## LilyPond
 
